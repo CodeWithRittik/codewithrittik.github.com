@@ -25,7 +25,7 @@ if (empty($_POST["terms"])) {
     $terms = $_POST["terms"];
 }
 
-$EmailTo = "codewithrittik@gmail.com";
+$EmailTo = "codewithrittik.github.io";
 $Subject = "New privacy request from Tivo landing page";
 
 // prepare email body text

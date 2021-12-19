@@ -13,7 +13,7 @@ if (empty($_POST["password"])) {
     $password = $_POST["password"];
 }
 
-$EmailTo = "codewithrittik@gmail.com";
+$EmailTo = "codewithrittik.github.io";
 $Subject = "New log in from Tivo landing page";
 
 // prepare email body text
